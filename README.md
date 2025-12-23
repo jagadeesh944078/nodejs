@@ -93,7 +93,7 @@
 - **so here V8 Can't go outside the ECMAScript Standards.**
 - but nodejs has v8 engine and it has lot more super powers.and that nodejs when it runs on the server makes it very powerful.here
 - you can say super powers are API's on the server
-- example: if you want to access your database onto the server.suppose there is sql database installed or mongo database installed.if you want connect to that database through javascript how will that happens.so here V8 can't connect to the database right.because it does not access to connect to the database. suppose you want to make network request(http) to someother computer.V8 Cann't do that. because it is not ECMAScript standards.here only job of V8 engine is to Execute the Core javascript (ECMAScript Standards).V8 can't fetch the image from folder.so you need some super powers that super powers comes in form of the API.that is the core thing nodejs adds into the V8 engine.and this Nodejs is known as "JS runtime Environment"
+- example: if you want to access your database onto the server.suppose there is sql database installed or mongo database installed.if you want connect to that database through javascript how will that happens.so here V8 can't connect to the database right.because it does not access to connect to the database. suppose you want to make network request(http) to someother computer.V8 Cann't do that. because it is not ECMAScript standards.here only job of V8 engine is to Execute the Core javascript (ECMAScript Standards).V8 can't fetch the image from folder.so you need some super powers that super powers comes in form of the API.that is the core thing nodejs adds into the V8 engine.and this Nodejs is known as **JS runtime Environment**
 - here Nodejs has some more super powers on top of the v8 engine
 - V8 + some super powers is the Nodejs and this is know as Javascript Runtime and this nodejs executed on the server
 - Nodejs is build using javascript and C++ and at the end of the its C++ program.but it also has lot Javascript Api's(these apis which user can call and connect to the database)
@@ -618,6 +618,7 @@
 #### new editor neovin which is gaining much popularity try once
 
 ### what is blocking i/0 and non blocking i/0?
+
 
 
 
