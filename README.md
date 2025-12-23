@@ -7,7 +7,7 @@
 - **nodejs is opensource and its maintained by openjs foundation**
 - basically who adds the new features and updates so its added by the commity of the openjs foundation
 - nodejs helps you to run the javascript out side the browser (it means javascript now not limited to browser only)
-- nodejs has an **event-driven-architecture** capable of **asynchronous i/o** also some times known as **non blocking i/o**
+- nodejs has an **event-driven-architecture** capable of **asynchronous i/o** also some times known as **non blocking i/o** (it means Node.js does not wait for slow operations (like file reads, DB queries, network calls) to finish before moving on to the next task.)
 - **whereever there is javascript there will always be a javascript engine**
 - every browser runs the javascript and every browser has javascript engine and every browser has its own javascript engine
 - **nodejs first version relased on 2009 and developed by Ryan Dahl**
@@ -618,6 +618,7 @@
 #### new editor neovin which is gaining much popularity try once
 
 ### what is blocking i/0 and non blocking i/0?
+
 
 
 
