@@ -107,7 +107,7 @@
 <img src="assets/High_Level_Language.jpg" alt="Preview" width="600" height="400"/>
 
 - the computer understands binary code.on top it Assembly code.on top it Machine Code.on top it High Level Languages.here High Level Language is C++.
-- so basically computer understands C++ and we as a developer understands the High Level Languages like C++.
+- so basically computer understands binary code and we as a developer understands the High Level Languages like C++.
 - you cannot write the code in Binary because even if you want to write alphabet you have to write so much big code.here our head can't process the binary.
 - so here we are capable of writing High Level languages on top of C++ we have Javascript.
 - we as a user loves to write javascript because one line can do lot of things behind the scenes
@@ -618,6 +618,7 @@
 #### new editor neovin which is gaining much popularity try once
 
 ### what is blocking i/0 and non blocking i/0?
+
 
 
 
