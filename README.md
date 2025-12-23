@@ -324,7 +324,7 @@
 - **why you will face performence issues?**
 - suppose if your main thread is blocking that is when nodejs becomes slow.so you dont have to block your main thread.anyhow whatever code you write you have to write it in such a fashion that you dont block the main thread.
 
-### sync, async,setTimeoutZero
+### sync, async,setTimeoutZero (episode 7)
 
 - in async.js normally file reading is fast so first file reading will come before api call and setTimeout.but in few cases if you have large file in that case maybe file output can come last.
 
@@ -618,6 +618,7 @@
 #### new editor neovin which is gaining much popularity try once
 
 ### what is blocking i/0 and non blocking i/0?
+
 
 
 
