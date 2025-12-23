@@ -6,7 +6,7 @@
 - **(In Wikipedia its Says)** **Nodejs is a cross platform** (it can run on windows,macos,linux)
 - **nodejs is opensource and its maintained by openjs foundation**
 - basically who adds the new features and updates so its added by the commity of the openjs foundation
-- nodejs helps you to run the javascript out side the browser
+- nodejs helps you to run the javascript out side the browser (it means javascript now not limited to browser only)
 - nodejs has an **event-driven-architecture** capable of **asynchronous i/o** also some times known as **non blocking i/o**
 - **whereever there is javascript there will always be a javascript engine**
 - every browser runs the javascript and every browser has javascript engine and every browser has its own javascript engine
@@ -618,5 +618,6 @@
 #### new editor neovin which is gaining much popularity try once
 
 ### what is blocking i/0 and non blocking i/0?
+
 
 
